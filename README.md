@@ -1,1 +1,3 @@
-# playground
+- cd /playground/test
+    - `ruby is_valid_bracket_test.rb`
+    - `ruby is_palindrome_test.rb`
